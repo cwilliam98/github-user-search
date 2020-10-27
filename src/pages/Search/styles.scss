@@ -1,11 +1,11 @@
 .card-search-container {
-  width: 1251px;
+  width: 1300px;
   height: 270px;
   margin-top: 55px;
 }
 .card-result-container {
-  width: 1251px;
-  height: 270px;
+  width: 1300px;
+  height: 387px;
   margin-top: 55px;
 }
 .search-title {
@@ -19,4 +19,29 @@
 }
 .btn-card-content {
   padding: 0 45px 45px 95px;
+}
+.image {
+  margin-top: 23px;
+  height: 290px;
+  width: 280px;
+}
+.config-card {
+  width: 50rem;
+  height: 16rem;
+}
+.config-total-card {
+  width: 15rem;
+  height: 2rem;
+}
+
+.config-info-card {
+  width: 47rem;
+  height: 2rem;
+  margin-bottom: 5px;
+}
+.title {
+  margin-bottom: 25px;
+}
+.card {
+  display: block;
 }
